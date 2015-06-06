@@ -3,7 +3,11 @@ This is the study note of the Caffe code.
 
 
 
+Caffe notes by yufeigan
+http://yufeigan.github.io/categories/LearningCaffe/
 
+Caffe 深度学习框架上手教程
+http://www.csdn.net/article/2015-01-23/2823663
 
 
 # Caffe
@@ -40,3 +44,22 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+
+
+
+What is the algorithm used by Google Search by Image?
+(Quora)
+http://www.quora.com/What-is-the-algorithm-used-by-Google-Search-by-Image-1
+(stackexchange)
+http://dsp.stackexchange.com/questions/5995/what-algorithm-does-google-use-for-its-search-by-image-site
+
+Researchers Announce Advance in Image-Recognition Software
+http://www.nytimes.com/2014/11/18/science/researchers-announce-breakthrough-in-content-recognition-software.html?_r=0
+
+Google research blog: Building a deeper understanding of images
+http://googleresearch.blogspot.com/2014/09/building-deeper-understanding-of-images.html
+
+2008 Google paper
+http://en.wikipedia.org/wiki/VisualRank
+PageRank for Product Image Search: http://www.www2008.org/papers/pdf/p307-jingA.pdf
+https://biswaroop.wordpress.com/2008/04/29/visualrank-googles-new-image-search-algorithm/
