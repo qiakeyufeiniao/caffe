@@ -1,3 +1,11 @@
+
+This is the study note of the Caffe code.
+
+
+
+
+
+
 # Caffe
 
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
